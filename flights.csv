@@ -1,0 +1,21 @@
+flight_id,airline,from_city,from_country,to_city,to_country,dep_date,duration_min,price_eur,note
+FL-8819,Falcon Jet,Budapest,Hungary,Tallinn,Estonia,2026-09-01,84,182.00,
+FL-7695,Falcon Jet,Riga,Latvia,Prague,Czechia,14.03.2026,82,,
+FL-9218,TransCarpa,Prague,Czechia,Rome,Italy,18.04.2026,154,90.00,
+FL-9846,Blue Meridian,Warsaw,Poland,Odesa,Ukraine,14.05.2026,244,161.99,
+FL-5104,Lumen Air,Rome,Italy,Lisbon,Portugal,18.03.2026,217,101.00,
+FL-8653,Zephyr Lines,Lyon,France,Lisbon,Portugal,2026-08-02,75,59.99,
+FL-8526,Orbit Airways,Munich,Germany,Paris,France,2026-06-11,83,193.00,
+FL-2530,Zephyr Lines,Riga,Latvia,Warsaw,Poland,01.07.2026,188,220.99,
+FL-6386,Falcon Jet,Tallinn,Estonia,Berlin,Germany,2026-07-08,184,233.00,
+FL-6990,Lumen Air,Vienna,Austria,Berlin,Germany,2026-09-23,290,68.00,delay=90;by=FlightLog
+FL-8300,Falcon Jet,Riga,Latvia,Krakow,Poland,2026-07-18,262,,delay=10;by=FlightLog
+ fl-2616 ,AeroVista ,LVIV,Ukraine,Madrid,Spain,2026-07-27,179,206.00,
+FL-4479,Lumen Air,Kyiv,Ukraine,Vilnius,Lithuania,2026-05-26,284,120.00,delay=40;by=AirWatch
+FL-4461,TransCarpa,Kyiv,Ukraine,Lyon,France,2026-03-17,269,,delay=90;by=FlightLog
+FL-5377,Falcon Jet,Odesa,Ukraine,Lyon,France,2026-04-24,113,181.00,delay=25;by=FlightLog
+FL-3677,Zephyr Lines,Vienna,Austria,Kyiv,Ukraine,2026-08-16,89,96.99,
+ fl-9218 ,TransCarpa ,PRAGUE,Czechia,Rome,Italy,18.04.2026,154,90.00,
+FL-9605,AeroVista,Krakow,Poland,Rome,Italy,2026-06-24,302,249.50,delay=25;by=AirWatch
+FL-2616,AeroVista,Lviv,Ukraine,Madrid,Spain,2026-07-27,179,206.00,
+FL-6440,Falcon Jet,Warsaw,Poland,Tallinn,Estonia,26.07.2026,74,,
